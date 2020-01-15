@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42df8809-1784-4dde-8d1e-6cbe5430e095" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chat/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chat/communication/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chat/communication/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chat/dtos/MessageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chat/dtos/MessagesDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chat/dtos/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chat/dtos/UsersDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chat/handlers/LoginHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chat/handlers/LogoutHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chat/handlers/MessagesHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chat/handlers/UsersHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chat/managers/Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chat/managers/TimeoutManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LoginHandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LogoutHandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MessagesHandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UsersHandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/REST_Server-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chat/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chat/communication/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chat/communication/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chat/dtos/MessageDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chat/dtos/MessagesDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chat/dtos/UserDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chat/dtos/UsersDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chat/handlers/LoginHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chat/handlers/LogoutHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chat/handlers/MessagesHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chat/handlers/UsersHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chat/managers/Executor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chat/managers/TimeoutManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/LogoutHandlerTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LogoutHandlerTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/HandlerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/LoginHandlerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/LogoutHandlerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/MessagesHandlerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/UsersHandlerTest.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WHdGEdOIN36xD4VCEWrWqNYkzv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/chat" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lerpa\OneDrive\Documents\GitHub\Networks_Labs\REST_Server\src\main\java\chat" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MessagesHandlerTest.userRequestMessageMap">
+    <configuration name="MessagesHandlerTest.userRequestMessageMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="REST_Server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MessagesHandlerTest" />
+      <option name="METHOD_NAME" value="userRequestMessageMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessagesHandlerTest.userSendMessageWithNullToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="REST_Server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MessagesHandlerTest" />
+      <option name="METHOD_NAME" value="userSendMessageWithNullToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessagesHandlerTest.userSendMessageWithRightToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="REST_Server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MessagesHandlerTest" />
+      <option name="METHOD_NAME" value="userSendMessageWithRightToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessagesHandlerTest.userSendMessageWithWrongToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="REST_Server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MessagesHandlerTest" />
+      <option name="METHOD_NAME" value="userSendMessageWithWrongToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsersHandlerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="REST_Server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UsersHandlerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UsersHandlerTest" />
+      <item itemvalue="JUnit.MessagesHandlerTest.userSendMessageWithNullToken" />
+      <item itemvalue="JUnit.MessagesHandlerTest.userSendMessageWithWrongToken" />
+      <item itemvalue="JUnit.MessagesHandlerTest.userSendMessageWithRightToken" />
+      <item itemvalue="JUnit.MessagesHandlerTest.userRequestMessageMap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MessagesHandlerTest.userRequestMessageMap" />
+        <item itemvalue="JUnit.MessagesHandlerTest.userSendMessageWithRightToken" />
+        <item itemvalue="JUnit.MessagesHandlerTest.userSendMessageWithWrongToken" />
+        <item itemvalue="JUnit.MessagesHandlerTest.userSendMessageWithNullToken" />
+        <item itemvalue="JUnit.UsersHandlerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42df8809-1784-4dde-8d1e-6cbe5430e095" name="Default Changelist" comment="" />
+      <created>1578810358897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578810358897</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LoginHandlerTest.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/LogoutHandlerTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
